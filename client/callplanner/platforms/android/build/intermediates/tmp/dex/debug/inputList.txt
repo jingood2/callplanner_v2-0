@@ -1,0 +1,7 @@
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/classes/debug
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/sqlite-connector-fdf64b22440c876d5ff1c5f8077921bd02726d48.jar
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/classes-fec230d4bd18efe8a817dfcb4fa2e2bed754a8fa.jar
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/commons-httpclient-3.1-e0b5e3236d1f9dbe8fee974946993ff6f4d1f4e1.jar
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/jcifs-1.3.15-920cafc4bcd34f087372ce05aa25e30d7e208e08.jar
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/ews-dae7312334daebfc03343993430c32b83c207a4b.jar
+/Users/minsookim/HybridAppProjects/callplanner/platforms/android/build/intermediates/pre-dexed/debug/sqlite-native-driver-1e6076d616f130a68d1ebd3216b93e0a6f9a32bd.jar
